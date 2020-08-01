@@ -69,7 +69,8 @@ particlesJS('particles-js',
     //     }
     //   }
     // }
-    "particles": {
+    "particles": 
+    {
       "number": {
         "value": 80,
         "density": {
